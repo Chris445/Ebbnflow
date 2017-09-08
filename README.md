@@ -1,4 +1,13 @@
-# Ebbnflow
+# Ebb & Flow
+## Work in progress
+
+- [Draft](#draft)
+- [Revison](#revison)
+- [Best Practices](#best-practices)
+
+- - - 
+
+# Draft
 
 
                                          **A Dao of Web Design**
@@ -19,6 +28,7 @@ The article is dated 2000 and I feel this idea of flexibility in our webpages ha
 
 
 - - -
+
 ## Best Practices
 
 - Use lowercase for files, folders, and markups
