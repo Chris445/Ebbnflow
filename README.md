@@ -18,7 +18,7 @@
 
 
 
-![github](Waterfall.jpg)
+![github](Waterfall2.jpg)
 
 In John Allsopp’s article, A Dao of Web Design, John compares designing a website to Taoism. He talks about how the internet is a new medium that's still in it’s early stages of development and needs to be approached with an open mind. Throughout the article he quotes passages from the Dao that help define what is happening with the transition from traditional printing to web design.
 
