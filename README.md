@@ -3,7 +3,7 @@
 
 - [Draft](#draft)
 - [Revison](#revison)
-- [Best Practices](#best-practices)
+
 
 - - - 
 
@@ -29,3 +29,4 @@ The article is dated 2000 and I feel this idea of flexibility in our webpages ha
 
 - - -
 
+(about the author)
