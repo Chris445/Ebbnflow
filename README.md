@@ -3,7 +3,8 @@
 
 - [Draft](#draft)
 - [Revison](#revison)
-- [Author](#Author)
+- [Author](#author)
+- [Read Full Article](#full article)
 
 
 - - - 
@@ -35,4 +36,15 @@ About the Author
 ![github]()
 
 Hey! My name is Chris, I'm a Montserrat stuident who is majoring in sculpture. I like videogames, programming, and sketching.
+
+
+- - -
+
+#Full Article
+
+If you would like to read the full article, here it is!
+
+[“A Dao of Web Design”](https://alistapart.com/article/dao)
+
+
 
