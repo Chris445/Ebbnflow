@@ -33,7 +33,7 @@ The article is dated 2000 and I feel this idea of flexibility in our webpages ha
 # Author
 
 About the Author
-![github](Selfport.jpg)
+![github](Selfport2.jpg)
 
 Hey! My name is Chris, I'm a Montserrat stuident who is majoring in sculpture. I like videogames, programming, and sketching.
 
