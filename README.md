@@ -40,7 +40,7 @@ Hey! My name is Chris, I'm a Montserrat stuident who is majoring in sculpture. I
 
 - - -
 
-#Full Article
+# Full Article
 
 If you would like to read the full article, here it is!
 
