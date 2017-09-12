@@ -4,7 +4,7 @@
 - [Draft](#draft)
 - [Revison](#revison)
 - [Author](#author)
-- [Read Full Article](#full article)
+- [Read-Full-Article](#article)
 
 
 - - - 
@@ -40,7 +40,7 @@ Hey! My name is Chris, I'm a Montserrat stuident who is majoring in sculpture. I
 
 - - -
 
-# Full Article
+# Article
 
 If you would like to read the full article, here it is!
 
