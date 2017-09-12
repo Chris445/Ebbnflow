@@ -3,7 +3,7 @@
 
 - [Draft](#draft)
 - [Revison](#revison)
-- [author](#author)
+- [Author](#Author)
 
 
 - - - 
@@ -29,9 +29,10 @@ The article is dated 2000 and I feel this idea of flexibility in our webpages ha
 
 
 - - -
+#Author
 
-About the author
-![github](img.me)
+About the Author
+![github](IMG-0760.JPG)
 
 Hey! My name is Chris, I'm a Montserrat stuident who is majoring in sculpture. I like videogames, programming, and sketching.
 
