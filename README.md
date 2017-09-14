@@ -2,7 +2,6 @@
 ## Work in progress
 
 - [Draft](#draft)
-- [Revison](#revison)
 - [Author](#author)
 - [Read-Full-Article](#article)
 
