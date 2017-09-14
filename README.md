@@ -11,9 +11,9 @@
 # Draft
 
 
-                                         **A Dao of Web Design**
+                                               A Dao of Web Design
                                                  
-                                                 *Summary*
+                                                     Summary
 
 
 
