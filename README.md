@@ -1,4 +1,4 @@
-![github](Waterfall2.jpg)
+![github](waterfall2.jpg)
 
 
 
