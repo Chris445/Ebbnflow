@@ -1,0 +1,202 @@
+
+
+img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  }
+
+
+body {
+  width: 90%;
+  max-width: 60em;
+  margin: 1em auto;
+  }
+
+html {
+  font-size: 100%;
+  line-height: 1.15
+  }
+
+
+
+
+
+header {
+  font-family: sans-serif;
+  text-align: center;
+
+  }
+
+#masthead {
+  margin: -3.75em -5.5% 0;
+  overflow: hidden;
+  }
+
+#masthead h1 {
+  font: bold 7.5em/1.15 "arial black", sans-serif;
+  letter-spacing: -.04em;
+  }
+
+article header {
+  margin-bottom: 2.25em;
+  }
+
+section.author {
+  min-height: 17.5em;
+  padding: 2.1875em 0;
+  }
+
+/*--- Figures ---*/
+
+figure {
+  margin: 0;
+  }
+
+figure.artwork {
+  margin-top: 1.125em;
+  margin-bottom: 1.125em;
+  }
+
+ figcaption.credit {
+  font-size: .8em;
+  text-align: right;
+  margin-top: 1.25em;
+  }
+
+/* This ajusts the layout for smaller screen */
+
+figure.headshot {
+  display: block;
+  width: 7.5em;
+  height: 7.5em;
+  border: .5em solid #eee;
+  border-radius: 50%;
+  margin: .25em auto .75em;
+  overflow: hidden; /* this overflow-hidden element keeps the image from going outside of the border*/
+  }
+
+
+
+  figure.headshot img {
+  max-width: 100%; /* enlarge image */
+  margin-left: 0%; /* offset/position image */
+  }
+
+/* --- typography --- */
+
+a {
+  color: #2455c3;
+  text-decoration: none;
+  }
+
+a:hover {
+  text-decoration: underline;
+  }
+
+
+
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  margin-bottom: 0%;
+  }
+
+
+article h1 {
+  font: bold 2.25em/1.167 sans-serif;
+  letter-spacing: -.015em;
+  margin-bottom: .5em;
+  }
+
+.main h2 {
+  font: bold 1.5em/1.25 sans-serif;
+  color: #ba3925;
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+  }
+
+
+
+
+/* p:first-child */
+p.lead-in {
+  font-size: 1.5em;
+  margin-right: -10%;
+  margin-left: -10%;
+  }
+
+/*
+width: 90%;
+  max-width: 60em;
+  margin: 1em auto;
+ */
+/*
+p.byline {
+  margin-bottom: .75em;
+  }
+ */
+
+/* about the author */
+
+section.author h2 {
+  font: bold 1.125em/1.333 sans-serif;
+  text-align: center;
+  margin-bottom: 2em;
+  }
+
+section.author h3 {
+  font: bold 1.125em/1.333 sans-serif;
+  margin-bottom: .167em;
+  }
+
+section.author p {
+  font: .875em/1.714 georgia, serif;
+  margin-top: ;
+  }
+
+.main blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+
+.all-caps {
+  letter-spacing: 0.05em;
+  word-spacing: 0.05em;
+  text-transform: uppercase;
+  }
+
+
+
+/* -- layout --- */
+
+
+
+.margin-offset {
+  margin-right: 10%;
+  margin-left: 10%;
+  }
+
+
+
+@media (min-width: 48em) {
+
+/* about the author */
+
+/* revert to A List Apart layout */
+
+/*
+section.bio {
+  margin-left: 9.375em;
+  }
+ */
+
+/*
+figure.headshot {
+  float: left
+ }
+ */
+
