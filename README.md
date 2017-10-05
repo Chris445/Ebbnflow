@@ -56,7 +56,7 @@ If you would like to read the full article, here it is!
  # HTML & CSS
  
  
- - ["Index"](html.index)
+ - ["Index"](index.html)
  - ["Summary.HTML"](summaryfin.html)
  - ["Summary.MD"](summary.md)
 
