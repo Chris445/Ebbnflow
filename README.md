@@ -56,7 +56,7 @@ If you would like to read the full article, here it is!
  # HTML & CSS
  
  
- - !["Index"](#index.html)
+ - !["Index"](https://chris445.github.io/ebbnflow/)
  - !["Summary.HTML"](summaryfin.html)
  - !["Summary.MD"](summary.md)
 
